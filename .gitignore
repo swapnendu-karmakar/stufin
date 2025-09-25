@@ -9,7 +9,6 @@
 
 # production
 /build
-secrets.json
 
 # debug
 npm-debug.log*

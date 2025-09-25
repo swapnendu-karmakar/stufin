@@ -10,9 +10,8 @@ const nextConfig = {
     unoptimized: true,
   },
   env: {
-    GOOGLE_SHEETS_CLIENT_EMAIL: process.env.GOOGLE_SHEETS_CLIENT_EMAIL,
-    GOOGLE_SHEETS_PRIVATE_KEY: process.env.GOOGLE_SHEETS_PRIVATE_KEY,
-    GOOGLE_SHEETS_ID: process.env.GOOGLE_SHEETS_ID,
+    GOOGLE_SERVICE_ACCOUNT_JSON: process.env.GOOGLE_SERVICE_ACCOUNT_JSON,
+    GOOGLE_SHEETS_SHEET_ID: process.env.GOOGLE_SHEETS_SHEET_ID,
   },
 }
 
