@@ -16,8 +16,8 @@ export function Footer() {
                 <span className="text-muted-foreground">2203051240100</span>
               </div>
               <div className="flex flex-col items-center p-3 bg-background/50 rounded-md border">
-                <span className="font-medium text-foreground">Suzan Mansuri</span>
-                <span className="text-muted-foreground">2203051240099</span>
+                <span className="font-medium text-foreground">Shrey Bhaskar Patil</span>
+                <span className="text-muted-foreground">2203051240072</span>
               </div>
               <div className="flex flex-col items-center p-3 bg-background/50 rounded-md border">
                 <span className="font-medium text-foreground">Yash Kumar</span>
